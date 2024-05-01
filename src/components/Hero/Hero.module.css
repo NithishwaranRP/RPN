@@ -100,12 +100,28 @@
   z-index: 0;
 }
 
+/* Media query for smaller screens (e.g., mobile) */
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
   }
 
-  .content {
-    align-items: center;
+  .title {
+    font-size: 48px; /* Decrease font size for smaller screens */
+    text-align: center;
+  }
+
+  .description {
+    font-size: 24px; /* Decrease font size for smaller screens */
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .contactBtn {
+    font-size: 24px; /* Decrease font size for smaller screens */
+    padding: 14px 20px;
   }
 }
