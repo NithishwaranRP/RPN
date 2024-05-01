@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Sundaram InfoTech",
+      "startDate": "June, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Mobile App and Website", "For both Frontend & Backend"],
+      "imageSrc": "history/sf.png"
+    },
+    {
+      "role": "UI / UX  Designer",
+      "organisation": "Sundaram InfoTech",
+      "startDate": "June, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Mobile App and Website", "For UI / UX & Logo Design"],
+      "imageSrc": "history/sf.png"
+    }
+  ]
+  

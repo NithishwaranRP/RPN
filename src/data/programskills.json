@@ -1,0 +1,37 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React JS",
+      "imageSrc": "skills/react.png"
+    },
+  
+    {
+      "title": "Node JS",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "React Native",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    }
+    
+  ]
+  

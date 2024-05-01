@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "After Effects",
+      "imageSrc": "skills/ae.png"
+    },
+    {
+      "title": "Premiere Pro",
+      "imageSrc": "skills/ap.png"
+    },
+    {
+      "title": "Illustrator",
+      "imageSrc": "skills/ai.png"
+    },
+    {
+      "title": "Photoshop",
+      "imageSrc": "skills/photoshop.png"
+    },
+    {
+      "title": "PowerPoint",
+      "imageSrc": "skills/powerpoint.png"
+    }  
+  ]
+

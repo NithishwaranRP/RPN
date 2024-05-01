@@ -1,0 +1,22 @@
+[
+    {
+      "title": "SF FAST Bundle",
+      "imageSrc": "projects/project.png",
+      "description": "SFFast is a cutting-edge application meticulously crafted using JavaScript, Java, React Native, Spring Tool Suite, and Oracle technologies.This dynamic platform is designed to empower sales executives,efficient tool for managing sales activities.",
+      "skills": [
+        "React Native",
+        "Oracle",
+        "SpringTool"
+      ]
+    },
+    {
+      "title": "SF FAST website",
+      "imageSrc": "projects/project.png",
+      "description": "Designed and developed an admin portal website utilizing HTML, CSS, JavaScript, React JS, Oracle, and Spring Tool Suite. Integrated a comprehensive tech stack to create a dynamic platform for efficient administrative tasks and data management.",
+      "skills": [
+        "React Js",
+        "Oracle",
+        "SpringTool"
+      ]
+    }
+  ]
