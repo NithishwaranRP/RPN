@@ -1,3 +1,4 @@
+import React from "react";
 import styles from "./App.module.css";
 import { About } from "./components/About/About";
 import { Contact } from "./components/Contact/Contact";
@@ -7,16 +8,34 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import { Design } from "./components/Design/Design";
+import { getImageUrl } from "./utils";
 
 function App() {
+  const handleRedirect = () => {
+    // Navigate to the specified URL when the download button is clicked
+    window.location.href =
+      "https://drive.google.com/file/d/1dbMu67o9knB9Z4gSo5L8FaUlJGYc8Uz2/view";
+  };
+
   return (
     <div className={styles.App}>
+      <div>
+        {/* Use onClick to trigger the redirection function */}
+        <a href="#" onClick={handleRedirect}>
+          {/* Display an image as a download link */}
+          <img
+            src={getImageUrl("about/app.png")}
+            alt="Download APK"
+            className={styles.downloadImage}
+          />
+        </a>
+      </div>
       <Navbar />
       <Hero />
       <About />
       <Experience />
       <Program />
-      <Design/>
+      <Design />
       <Projects />
       <Contact />
     </div>
