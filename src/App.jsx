@@ -14,7 +14,7 @@ function App() {
   const handleRedirect = () => {
     // Navigate to the specified URL when the download button is clicked
     window.location.href =
-      "https://drive.google.com/file/d/1dbMu67o9knB9Z4gSo5L8FaUlJGYc8Uz2/view";
+      "https://drive.usercontent.google.com/download?id=1dbMu67o9knB9Z4gSo5L8FaUlJGYc8Uz2&export=download&authuser=0&confirm=t&uuid=6e7f7cdc-977a-462f-86c9-3667d70b70d2&at=APZUnTVrd-Z1iYe2CMiFXwxHcp60%3A1714710959807";
   };
 
   return (
